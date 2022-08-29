@@ -1,0 +1,7 @@
+#count number of times a character repeats itself
+
+fruit = 'tomato'
+for char in tomato:
+  if char == 'o':
+    count = count + 1
+print (count)

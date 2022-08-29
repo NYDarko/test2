@@ -1,0 +1,71 @@
+4 common types of cloud services for IAAS:
+-compute
+-storage
+-networking
+-databases
+
+Benefits of cloud computing.
+-global- work from any region in the world 
+-cost effective.- u pay for what u consume. A type of of payg service
+-secure(csps provide security and also give you the option to configurate your own security settings.
+-reliable- backups, disaster recovery, data replication and fault tolerance.
+-Scalable- increase or decrease services based in demand
+-Elastic- can automate scaling during spikes
+-Current-cloud software is constantly being patched and upgraded at no expense to the users
+
+saas
+programs that are run and managed by the csps. its for clients and they dont have to worry about how it is maintained, because it works and it is always available.
+
+paas (	for developers	)
+this allows you to focus on the deployment of your apps and not so much about provisioning, configuring and understanding the hardware/os.
+
+infrastructure as a service (iaas) for admins
+contains access to networking features, computer and data storage spaces, you dont have to worry about data centers,hardware etc.
+
+public Cloud/ native cloud.
+everything is built on the cloud.
+
+private cloud- infrastructure is on prem, a lot of technical expertise required to maintain it, most expensive option.
+
+hybrid- could be the more cost effective depending on the services you use. It allows you to enjoy the benefits of on 
+prem management and public cloud. responsible for security configurations and can meet all security requirements.
+
+Cloud Architecture Terminologies
+
+Availability =HA -Highly Available.
+Scalability= the rate at which the oganisaion can grow rapidly or unimpeded.
+vertical scaling (scaling up)
+-replacing servers with faster ones, upgrading to bigger machines/bigger storages spaces etc
+
+horizontal scaling (scaling out)
+-adding more servers to improve overall performance, adding more computing equipment for faster processes and high availability.usually of the same size.
+
+Elasticity= the ability to shrink and expand with respect to demand
+this can be done by implementing virtual servers, where we can scale out when the traffic demands for more servers and remove servers when we have to.(scaling in).
+not feasible to do vertical scaling with high elasticity.
+read on azure scale set
+fault tolerance- the ability to prevent disasters High Durability.-ability to prevent the loss of data solutions that can help recover from disasters, 
+Disaster Recovery (DR)- ability to recover from a disaster
+
+
+
+
+
+THE EVOLUTION OF COMPUTERS
+Dedicated Servers - wastes space, limited by operating system, might cause conflict in sharing resources if multiple apps are on the server. It 
+works best with a single app, it also guarantees security and privacy.
+
+VMs(Virtual Machines). A machine that runs within a machine-, -you may be ovevrpaying for the underutilisation of the machines, it can also cause conflict during resource sharing
+when multiple apps are found on the same virtual machine, adding more virtual machines to run specific apps ease up traffic going to onr 
+
+CONTAINERS
+virtual machines can run multiple containers
+doker deamon is the software layer that allows you tu run multiple vms.
+all containers share the same underlying os making it more efficient than vms
+you can maximize the utility of the available capacity- which saves more cost.
+multiple apps can b run side by side without being limited to the same os requirements and it does not create conficts in sharing resources
+
+
+
+
+

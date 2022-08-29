@@ -1,0 +1,16 @@
+protocols - set of rules and mesages that form an internet standard.
+ ARP- Adress Resolution Protocol
+    .Resolves IP to MAC mappings.
+    .ARP Requests / ARP responses
+https- is http within a secure tunnel via SSL or TLS.
+
+a host is any device on a network that sends and receives traffics. 
+servers are computers w software that responds to requests.  
+
+From: darkosampson7@gmail.com
+From: darkosampson9@gmail.com 
+From: nydarko@ecobank.com
+From: kampemdarko@gmail.com
+
+links that contain one From: are known as tagged or trunked ports, 
+links taht contain multiple From: are known as acccess or untagged ports
