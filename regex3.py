@@ -10,5 +10,5 @@ for line in file:
   if len(stuff)!=1 : continue
   num = float(stuff[0])
   numlist.append(num)
-print('Max:', max(numlist))
+print('Max:::', max(numlist))
 print(num)
